@@ -13,9 +13,10 @@ Moodle Docs **(Decendent of Trianglelearn!!)**
 License
 -------
 
-[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0) <3
+[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 Big Thanks
 -----------
 TriangleLearn :heart:
+=====================
 ![TriangleLearn Logo](https://github.com/ujwal-k/TriangleLearn-Assets/blob/master/Logos/triangleLearnFavicon.png)
