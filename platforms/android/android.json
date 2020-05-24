@@ -26,12 +26,16 @@
           ],
           "/manifest/application": [
             {
-              "xml": "<meta-data android:name=\"firebase_analytics_collection_deactivated\" android:value=\"true\" />",
+              "xml": "<provider android:authorities=\"${applicationId}.opener.provider\" android:exported=\"false\" android:grantUriPermissions=\"true\" android:name=\"io.github.pwlin.cordova.plugins.fileopener2.FileProvider\"><meta-data android:name=\"android.support.FILE_PROVIDER_PATHS\" android:resource=\"@xml/opener_paths\" /></provider>",
               "count": 3
             },
             {
+              "xml": "<meta-data android:name=\"firebase_analytics_collection_deactivated\" android:value=\"true\" />",
+              "count": 2
+            },
+            {
               "xml": "<application android:usesCleartextTraffic=\"true\" />",
-              "count": 2,
+              "count": 1,
               "mode": "merge",
               "id": "config.xml",
               "oldAttrib": {
@@ -41,10 +45,6 @@
                 "android:supportsRtl": "true",
                 "android:usesCleartextTraffic": "true"
               }
-            },
-            {
-              "xml": "<provider android:authorities=\"${applicationId}.opener.provider\" android:exported=\"false\" android:grantUriPermissions=\"true\" android:name=\"io.github.pwlin.cordova.plugins.fileopener2.FileProvider\"><meta-data android:name=\"android.support.FILE_PROVIDER_PATHS\" android:resource=\"@xml/opener_paths\" /></provider>",
-              "count": 1
             }
           ],
           "/manifest/application/activity": [
