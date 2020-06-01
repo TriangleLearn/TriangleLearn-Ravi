@@ -86,9 +86,9 @@
     <feature name="IonicWebView">
         <param name="android-package" value="com.ionicframework.cordova.webview.IonicWebView" />
     </feature>
-    <name>Moodle</name>
-    <description>Moodle official app</description>
-    <author email="mobile@moodle.com" href="http://moodle.com">Moodle Mobile team</author>
+    <name>TriangleLearn</name>
+    <description>TriangleLearn official app</description>
+    <author email="contact@trianglelearn.com" href="http://trianglelearn.com">TriangleLearn Mobile team</author>
     <content src="index.html" />
     <access origin="*" />
     <access launch-external="yes" origin="tel:*" />

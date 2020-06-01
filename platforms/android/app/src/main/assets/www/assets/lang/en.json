@@ -2123,7 +2123,7 @@
     "core.warningofflinedatadeleted": "Offline data from {{component}} '{{name}}' has been deleted. {{error}}",
     "core.whatisyourage": "What is your age?",
     "core.wheredoyoulive": "In which country do you live?",
-    "core.whoissiteadmin": "\"Site Administrators\" are the people who manage the Moodle at your school/university/company or learning organisation. If you don't know how to contact them, please contact your teachers/trainers.",
+    "core.whoissiteadmin": "\"Site Administrators\" are the people who manage the TriangleLearn at your school/university/company or learning organisation. If you don't know how to contact them, please contact your teachers/trainers.",
     "core.whoops": "Oops!",
     "core.whyisthishappening": "Why is this happening?",
     "core.whyisthisrequired": "Why is this required?",
