@@ -1,7 +1,13 @@
 {
+<<<<<<< Updated upstream
   "name": "moodlemobile",
   "version": "3.8.3",
   "description": "The official app for Moodle.",
+=======
+  "name": "TriangleLearnMobile",
+  "version": "1.0.0",
+  "description": "The official app for TriangleLearn.",
+>>>>>>> Stashed changes
   "author": {
     "name": "Moodle Pty Ltd.",
     "email": "mobile@moodle.com"
