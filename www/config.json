@@ -1,7 +1,7 @@
 {
     "app_id": "com.moodle.moodlemobile",
-    "appname": "TriangleLearn Mobile",
-    "desktopappname": "TriangleLearn Desktop",
+    "appname": "Moodle Mobile",
+    "desktopappname": "Moodle Desktop",
     "versioncode": 3830,
     "versionname": "3.8.3-dev",
     "cache_update_frequency_usually": 420000,
@@ -59,6 +59,18 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
+    "demo_sites": {
+        "student": {
+            "url": "https://school.moodledemo.net",
+            "username": "student",
+            "password": "moodle"
+        },
+        "teacher": {
+            "url": "https://school.moodledemo.net",
+            "username": "teacher",
+            "password": "moodle"
+        }
+    },
     "font_sizes": [
         62.5,
         75.89,
@@ -70,13 +82,13 @@
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
-    "privacypolicy": "https://trianglelearn.com",
-    "notificoncolor": "#a50009",
+    "privacypolicy": "https://moodle.net/moodle-app-privacy/",
+    "notificoncolor": "#f98012",
     "statusbarbg": false,
     "statusbarlighttext": false,
-    "statusbarbgios": "#a50009",
+    "statusbarbgios": "#f98012",
     "statusbarlighttextios": true,
-    "statusbarbgandroid": "#a50009",
+    "statusbarbgandroid": "#df7310",
     "statusbarlighttextandroid": true,
     "statusbarbgremotetheme": "#000000",
     "statusbarlighttextremotetheme": true,
