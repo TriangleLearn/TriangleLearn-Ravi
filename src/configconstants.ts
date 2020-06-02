@@ -15,8 +15,8 @@
 // tslint:disable: variable-name
 export class CoreConfigConstants {
     static app_id = 'com.moodle.moodlemobile';
-    static appname = 'Moodle Mobile';
-    static desktopappname = 'Moodle Desktop';
+    static appname = 'TriangleLearn Mobile';
+    static desktopappname = 'TriangleLearn Desktop';
     static versioncode = 3830;
     static versionname = '3.8.3-dev';
     static cache_update_frequency_usually = 420000;
@@ -74,36 +74,24 @@ export class CoreConfigConstants {
     };
     static wsservice = 'moodle_mobile_app';
     static wsextservice = 'local_mobile';
-    static demo_sites: any = {
-        student: {
-            url: 'https://school.moodledemo.net',
-            username: 'student',
-            password: 'moodle'
-        },
-        teacher: {
-            url: 'https://school.moodledemo.net',
-            username: 'teacher',
-            password: 'moodle'
-        }
-    };
     static font_sizes: any = [
         62.5,
         75.89,
         93.75
 ];
     static customurlscheme = 'moodlemobile';
-    static siteurl = '';
-    static sitename = '';
+    static siteurl = 'https://trianglelearn.com';
+    static sitename = 'TriangleLearn';
     static multisitesdisplay = '';
     static skipssoconfirmation = false;
     static forcedefaultlanguage = false;
-    static privacypolicy = 'https://moodle.net/moodle-app-privacy/';
-    static notificoncolor = '#f98012';
+    static privacypolicy = 'https://trianglelearn.com/privacypolicy.html/';
+    static notificoncolor = '#f20056';
     static statusbarbg = false;
     static statusbarlighttext = false;
-    static statusbarbgios = '#f98012';
+    static statusbarbgios = '#f20056';
     static statusbarlighttextios = true;
-    static statusbarbgandroid = '#df7310';
+    static statusbarbgandroid = '#f20056';
     static statusbarlighttextandroid = true;
     static statusbarbgremotetheme = '#000000';
     static statusbarlighttextremotetheme = true;
@@ -118,6 +106,6 @@ export class CoreConfigConstants {
         mac: 'id1255924440',
         linux: 'https://download.moodle.org/desktop/download.php?platform=linux&arch=64'
     };
-    static compilationtime = 1591044840591;
-    static lastcommit = '700f68c86af34d2ae7ab995894ff58a5732f423e';
+    static compilationtime = 1591073353925;
+    static lastcommit = 'de8433430242884b6d4bccdb08bf7daae9174e1f';
 }
