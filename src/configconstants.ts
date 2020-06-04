@@ -80,7 +80,7 @@ export class CoreConfigConstants {
         93.75
 ];
     static customurlscheme = 'moodlemobile';
-    static siteurl = 'https://trianglelearn.com';
+    static siteurl = 'trianglelearn.com';
     static sitename = 'TriangleLearn';
     static multisitesdisplay = '';
     static skipssoconfirmation = false;
@@ -106,6 +106,6 @@ export class CoreConfigConstants {
         mac: 'id1255924440',
         linux: 'https://download.moodle.org/desktop/download.php?platform=linux&arch=64'
     };
-    static compilationtime = 1591073353925;
-    static lastcommit = 'de8433430242884b6d4bccdb08bf7daae9174e1f';
+    static compilationtime = 1591302618141;
+    static lastcommit = 'e77649e97d086365caa51f646496a34da5485150';
 }

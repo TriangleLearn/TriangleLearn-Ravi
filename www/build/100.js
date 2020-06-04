@@ -1,6 +1,6 @@
 webpackJsonp([100],{
 
-/***/ 1996:
+/***/ 1995:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -12,7 +12,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_components_module__ = __webpack_require__(13);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__directives_directives_module__ = __webpack_require__(14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_components_module__ = __webpack_require__(990);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__edit_post__ = __webpack_require__(2148);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__edit_post__ = __webpack_require__(2147);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__core_editor_components_components_module__ = __webpack_require__(128);
 // (C) Copyright 2015 Moodle Pty Ltd.
 //
@@ -66,7 +66,7 @@ var AddonModForumEditPostPageModule = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 2148:
+/***/ 2147:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
